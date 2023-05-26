@@ -6,7 +6,7 @@
 This assignment can be found at my github [repo](https://github.com/ameerwald/cds_lang_exam_assignment4). 
 
 ## The data
-The same dataset of fake and real news headlines used previously can be found again [here] (https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news). It contains the headline, text of the story and label (fake or real). 
+The same dataset of fake and real news headlines used previously can be found again [here](https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news). It contains the headline, text of the story and label (fake or real). 
 
 ## Assignment description
 
