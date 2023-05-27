@@ -10,9 +10,9 @@ The same dataset of fake and real news headlines used previously can be found ag
 
 ## Assignment description
 
-In this assignemnt, we were asked to use ```HuggingFace``` and the *Fake or Real News* dataset completing the following tasts:
+In this assignment, we were asked to use ```HuggingFace``` and the *Fake or Real News* dataset completing the following tasks:
 
-- Initalize a ```HuggingFace``` pipeline for emotion classification
+- Initialize a ```HuggingFace``` pipeline for emotion classification
 - Perform emotion classification for every *headline* in the data
 - Assuming the most likely prediction is the correct label, create tables and visualisations which show the following:
   - Distribution of emotions across all of the data
@@ -48,7 +48,7 @@ bash run.sh
 
 This has been tested on an ubuntu system on ucloud and therefore could have issues when run another way.
 
-# Discussion of results 
+## Discussion of results 
 In the graph showing all headlines, neutral is the most commonly classified emotion amongst the headlines. However when looking at the headlines split by fake and real, the most commonly classified emotion is disgust, in both. This is a bit puzzling. I tried coding it in another way with the same results so unsure at this time why that is occuring. Otherwise it appears that fear and joy were more present in the real headlines. 
 
 
