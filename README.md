@@ -29,7 +29,7 @@ In this assignment, we were asked to use ```HuggingFace``` and the *Fake or Real
 | Notes | Jupyter notebook and script with notes       
 | Out  | Visual representations of the data   
 | Src  | Py script 
-| Utils  |        
+| Utils  | Utilities script - functions used in the src script   
 
 
 ## To run the scripts 
